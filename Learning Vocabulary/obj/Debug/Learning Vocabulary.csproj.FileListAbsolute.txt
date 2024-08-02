@@ -1,0 +1,17 @@
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\bin\Debug\Learning Vocabulary.exe.config
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\bin\Debug\Learning Vocabulary.exe
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\bin\Debug\Learning Vocabulary.pdb
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.csproj.AssemblyReference.cache
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning_Vocabulary.Properties.Resources.resources
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.csproj.GenerateResource.cache
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.csproj.CoreCompileInputs.cache
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.exe
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.pdb
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning_Vocabulary.Welcome.resources
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning_Vocabulary.Vocabulary.resources
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning_Vocabulary.Learning.resources
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning_Vocabulary.Exam.resources
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.exe.manifest
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\bin\Debug\Learning Vocabulary.exe.manifest
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\bin\Debug\Learning Vocabulary.application
+D:\My-file\App\Learning Vocabulary\Learning Vocabulary\obj\Debug\Learning Vocabulary.application
